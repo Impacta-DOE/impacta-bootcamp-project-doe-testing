@@ -1,0 +1,6 @@
+{
+    "usuario": "99987635128",
+    "senha": "123456",
+    "mensagemSms": "Um SMS com as instruções para a recuperação da senha foi enviado para o seguinte número (xx) xxxx-xxxx",
+    "mensagemEmail": "Um e-mail com as instruções para a recuperação da senha foi enviado para o seguinte e-mail email-fake@gmail.com"
+}
